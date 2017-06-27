@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "545668969735",
+    "firebase_url": "https://alumnosapp-5b19d.firebaseio.com",
+    "project_id": "alumnosapp-5b19d",
+    "storage_bucket": "alumnosapp-5b19d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545668969735:android:e53c6817dd042e14",
+        "android_client_info": {
+          "package_name": "pe.edu.ulima.alumnosfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545668969735-es7br0c5kbr5pbi8ciqnsu9r0q169i0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnjBjCU55fwimKvUMzusQVpFoWcEf-Zv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
